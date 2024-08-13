@@ -1,1 +1,1 @@
-#This is my second_repo readme
+#This is a readme of a second repo
